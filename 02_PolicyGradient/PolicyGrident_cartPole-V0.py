@@ -1,3 +1,4 @@
+# base on https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch
 # 蒙特卡罗策略梯度
 # 数据池：保存没一轮的运行数据，这次训练之后就清空
 # 累积回报：累积后面每一步的回报*gamma

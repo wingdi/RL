@@ -1,3 +1,5 @@
+
+# base on https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch
 # 数据池：不分轮次，不清空，超出容量时从头覆盖。
 # 输入值：两个网络输入值 都是从数据池中随机采样时间步
 # 累积回报：是目标网络的输出
